@@ -24,14 +24,15 @@
     }
     &__contact{
         list-style-type: none;
-    text-decoration: none;
+        text-decoration: none;
         display: inline-flex;
         gap: 50px;
         padding-left: 345px;
+        color: #000;
     }
     &__contact--list{
         list-style-type: none;
-    text-decoration: none;
+        text-decoration: none;
         font-family: 'Roboto', sans-serif;
         font-weight: 500;
         text-decoration: none;

@@ -9,6 +9,8 @@
   padding: 0;
 
   &__list{
+    list-style-type: none;
+    text-decoration: none;
     flex-basis: calc((100% - 60px) / 3);
     border: 1px solid #eEEEEE;
     background-color: #FFFFFF;
