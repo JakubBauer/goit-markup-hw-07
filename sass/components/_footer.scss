@@ -3,9 +3,15 @@
     background-color: $footerColor;
     list-style-type: none;
     text-decoration: none;
+    
+    padding-top: 94px;
+padding-bottom: 94px;
+
+
 
 &__both{
     display: flex;
+    
 }
 &__logo{
     text-decoration: none;
